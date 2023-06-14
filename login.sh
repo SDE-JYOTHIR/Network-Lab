@@ -1,5 +1,5 @@
 #!/bin/bash
-#Type your login details
+
 read -p 'Username: ' user
 read -sp 'Password: ' pass
 
